@@ -1,0 +1,31 @@
+.orbiter {
+  border: 1px solid black;
+}
+
+.description {
+  padding-left: 15px;
+}
+
+.view3d {
+  width: 400px;
+  float: left;
+  border: 1px solid #222;
+}
+
+#pc123 {
+
+}
+
+#pc124 {
+
+}
+
+#pc234 {
+
+}
+
+#acknowledgements {
+  width: 500px;
+  float: left;
+  margin-left: 20px;
+}
